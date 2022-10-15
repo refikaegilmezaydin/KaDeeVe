@@ -13,3 +13,5 @@ public class Kadeeve {
         System.out.println("Matrahı girilen faturanın KDV tutarı:" + b);
         c = a+b;
         System.out.println("KDV dahil toplam fatura tutarı:" + c);
+        }
+        www.patika.dev
